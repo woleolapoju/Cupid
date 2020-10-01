@@ -1,0 +1,9 @@
+﻿
+1. to do Stock History DONE
+2. revisit system Users for applicable options
+3. in adjustment & restock print list
+4. to do store setup
+
+
+
+
